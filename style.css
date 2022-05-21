@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: 2550px;
+}
+.page{
+    width: 750px;
+    margin: 20px auto;
+    /*border: 39px solid aquamarine;*/
+}
+header{
+    background-color: aquamarine;
+    color: white;
+    padding: 20px;
+}
+h1,h2{
+    text-align: center;
+}
+.subtitle{
+    font-size: 15px;
+    color: blue;
+}
+.title{
+    color: blue;
+}
+a{
+    text-decoration:none;
+    color: brown;
+  display:inline-block;
+  padding: 5px 15px; 
+  /*border: 2px solid aquamarine;*/ 
+}
+.menu{
+    text-align: center;
+}
+a:hover{
+    background-color: grey;
+    color: white;
+}
+.footer{
+    text-align: center;
+    background-color: blue;
+    padding: 30px;
+    margin: 30px 0px;
+}
+img{
+    margin-bottom: 30px;
+}
+
