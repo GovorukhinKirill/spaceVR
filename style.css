@@ -45,5 +45,11 @@ a:hover{
 }
 img{
     margin-bottom: 30px;
+    width: 100%;
+}
+.VR{
+    background-color: rgba(240, 193, 123, 0.486);
+    padding: 10px;
+    border-radius: 20px;
 }
 
